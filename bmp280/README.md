@@ -5,7 +5,6 @@
 <p>
   
 ### Initialization
-- Check chip ID
 - Reset sensor
 - Wait for reset to complete
 - Read calibration data
