@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/1-abesh-1/Cansat-v1/refs/heads/main/bmp280/image.png"/>
 <h4>initialization life cycle</h4>
 <p>
-  ### Initialization
+### Initialization
 - Check chip ID
 - Reset sensor
 - Wait for reset to complete
